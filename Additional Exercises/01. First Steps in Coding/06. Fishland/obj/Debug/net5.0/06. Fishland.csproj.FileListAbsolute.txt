@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\bin\Debug\net5.0\06. Fishland.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\bin\Debug\net5.0\06. Fishland.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\bin\Debug\net5.0\06. Fishland.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\bin\Debug\net5.0\06. Fishland.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\bin\Debug\net5.0\06. Fishland.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\bin\Debug\net5.0\06. Fishland.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\obj\Debug\net5.0\06. Fishland.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\obj\Debug\net5.0\06. Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\obj\Debug\net5.0\06. Fishland.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\obj\Debug\net5.0\06. Fishland.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\obj\Debug\net5.0\06. Fishland.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\obj\Debug\net5.0\06. Fishland.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\obj\Debug\net5.0\refint\06. Fishland.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\obj\Debug\net5.0\06. Fishland.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\obj\Debug\net5.0\06. Fishland.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\06. Fishland\obj\Debug\net5.0\ref\06. Fishland.dll

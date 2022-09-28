@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\04. Sum of Two Numbers.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\04. Sum of Two Numbers.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\04. Sum of Two Numbers.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\04. Sum of Two Numbers.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\04. Sum of Two Numbers.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net5.0\04. Sum of Two Numbers.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\refint\04. Sum of Two Numbers.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\04. Sum of Two Numbers.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net5.0\ref\04. Sum of Two Numbers.dll

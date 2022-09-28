@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\refint\10. Invalid Number.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\ref\10. Invalid Number.dll

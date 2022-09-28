@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\refint\04. Even Powers of 2.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\ref\04. Even Powers of 2.dll

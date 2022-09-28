@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\obj\Debug\net5.0\refint\05. Character Sequence.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\05. Character Sequence\obj\Debug\net5.0\ref\05. Character Sequence.dll

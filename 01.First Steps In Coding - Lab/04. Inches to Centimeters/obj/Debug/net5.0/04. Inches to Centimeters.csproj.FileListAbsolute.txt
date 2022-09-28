@@ -1,0 +1,32 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\refint\04. Inches to Centimeters.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\ref\04. Inches to Centimeters.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\refint\04. Inches to Centimeters.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\01.First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net5.0\ref\04. Inches to Centimeters.dll

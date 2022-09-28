@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "01.Hello Softuni/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/01.Hello Softuni.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01.Hello Softuni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01.Hello Softuni/1.0.0": {
+      "type": "project",
+      "path": "../1.Hello Softuni/01.Hello Softuni.csproj",
+      "msbuildProject": "../1.Hello Softuni/01.Hello Softuni.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "01.Hello Softuni >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Stich\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Repos\\Softuni-Programming-Basics-CSharp\\01.First Steps In Coding - Lab\\03. Rectangle Area\\03. Rectangle Area.csproj",
+      "projectName": "03. Rectangle Area",
+      "projectPath": "C:\\Repos\\Softuni-Programming-Basics-CSharp\\01.First Steps In Coding - Lab\\03. Rectangle Area\\03. Rectangle Area.csproj",
+      "packagesPath": "C:\\Users\\Stich\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\Softuni-Programming-Basics-CSharp\\01.First Steps In Coding - Lab\\03. Rectangle Area\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Stich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Repos\\Softuni-Programming-Basics-CSharp\\01.First Steps In Coding - Lab\\1.Hello Softuni\\01.Hello Softuni.csproj": {
+              "projectPath": "C:\\Repos\\Softuni-Programming-Basics-CSharp\\01.First Steps In Coding - Lab\\1.Hello Softuni\\01.Hello Softuni.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\bin\Debug\net5.0\04. Balls.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\bin\Debug\net5.0\04. Balls.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\bin\Debug\net5.0\04. Balls.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\bin\Debug\net5.0\04. Balls.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\bin\Debug\net5.0\04. Balls.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\bin\Debug\net5.0\04. Balls.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\obj\Debug\net5.0\04. Balls.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\obj\Debug\net5.0\04. Balls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\obj\Debug\net5.0\04. Balls.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\obj\Debug\net5.0\04. Balls.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\obj\Debug\net5.0\04. Balls.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\obj\Debug\net5.0\04. Balls.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\obj\Debug\net5.0\refint\04. Balls.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\obj\Debug\net5.0\04. Balls.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\obj\Debug\net5.0\04. Balls.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\04. Balls\obj\Debug\net5.0\ref\04. Balls.dll

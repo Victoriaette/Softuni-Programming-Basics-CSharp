@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\bin\Debug\net5.0\01. Agency Profit.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\bin\Debug\net5.0\01. Agency Profit.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\bin\Debug\net5.0\01. Agency Profit.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\bin\Debug\net5.0\01. Agency Profit.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\bin\Debug\net5.0\01. Agency Profit.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\bin\Debug\net5.0\01. Agency Profit.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\obj\Debug\net5.0\refint\01. Agency Profit.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\01. Agency Profit\obj\Debug\net5.0\ref\01. Agency Profit.dll

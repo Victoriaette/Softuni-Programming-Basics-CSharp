@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\bin\Debug\net5.0\03. Celsius to Fahrenheit.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\bin\Debug\net5.0\03. Celsius to Fahrenheit.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\bin\Debug\net5.0\03. Celsius to Fahrenheit.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\bin\Debug\net5.0\03. Celsius to Fahrenheit.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\bin\Debug\net5.0\03. Celsius to Fahrenheit.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\bin\Debug\net5.0\03. Celsius to Fahrenheit.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\obj\Debug\net5.0\03. Celsius to Fahrenheit.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\obj\Debug\net5.0\03. Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\obj\Debug\net5.0\03. Celsius to Fahrenheit.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\obj\Debug\net5.0\03. Celsius to Fahrenheit.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\obj\Debug\net5.0\03. Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\obj\Debug\net5.0\03. Celsius to Fahrenheit.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\obj\Debug\net5.0\refint\03. Celsius to Fahrenheit.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\obj\Debug\net5.0\03. Celsius to Fahrenheit.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\obj\Debug\net5.0\03. Celsius to Fahrenheit.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\03. Celsius to Fahrenheit\obj\Debug\net5.0\ref\03. Celsius to Fahrenheit.dll

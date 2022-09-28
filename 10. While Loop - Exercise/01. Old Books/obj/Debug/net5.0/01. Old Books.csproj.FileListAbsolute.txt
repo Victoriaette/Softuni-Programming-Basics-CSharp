@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\obj\Debug\net5.0\refint\01. Old Books.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\01. Old Books\obj\Debug\net5.0\ref\01. Old Books.dll

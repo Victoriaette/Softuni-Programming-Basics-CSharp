@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\bin\Debug\net5.0\2.Nums 1-10.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\bin\Debug\net5.0\2.Nums 1-10.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\bin\Debug\net5.0\2.Nums 1-10.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\bin\Debug\net5.0\2.Nums 1-10.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\bin\Debug\net5.0\2.Nums 1-10.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\bin\Debug\net5.0\2.Nums 1-10.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\obj\Debug\net5.0\2.Nums 1-10.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\obj\Debug\net5.0\2.Nums 1-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\obj\Debug\net5.0\2.Nums 1-10.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\obj\Debug\net5.0\2.Nums 1-10.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\obj\Debug\net5.0\2.Nums 1-10.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\obj\Debug\net5.0\2.Nums 1-10.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\obj\Debug\net5.0\refint\2.Nums 1-10.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\obj\Debug\net5.0\2.Nums 1-10.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\obj\Debug\net5.0\2.Nums 1-10.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\2.Nums 1-10\obj\Debug\net5.0\ref\2.Nums 1-10.dll

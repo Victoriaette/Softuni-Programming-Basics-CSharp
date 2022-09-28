@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\bin\Debug\net5.0\02. Add Bags.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\bin\Debug\net5.0\02. Add Bags.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\bin\Debug\net5.0\02. Add Bags.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\bin\Debug\net5.0\02. Add Bags.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\bin\Debug\net5.0\02. Add Bags.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\bin\Debug\net5.0\02. Add Bags.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\obj\Debug\net5.0\refint\02. Add Bags.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\02. Add Bags\obj\Debug\net5.0\ref\02. Add Bags.dll

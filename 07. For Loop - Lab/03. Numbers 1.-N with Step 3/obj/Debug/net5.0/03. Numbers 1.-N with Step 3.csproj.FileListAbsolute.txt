@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\bin\Debug\net5.0\03. Numbers 1.-N with Step 3.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\bin\Debug\net5.0\03. Numbers 1.-N with Step 3.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\bin\Debug\net5.0\03. Numbers 1.-N with Step 3.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\bin\Debug\net5.0\03. Numbers 1.-N with Step 3.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\bin\Debug\net5.0\03. Numbers 1.-N with Step 3.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\bin\Debug\net5.0\03. Numbers 1.-N with Step 3.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\obj\Debug\net5.0\03. Numbers 1.-N with Step 3.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\obj\Debug\net5.0\03. Numbers 1.-N with Step 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\obj\Debug\net5.0\03. Numbers 1.-N with Step 3.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\obj\Debug\net5.0\03. Numbers 1.-N with Step 3.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\obj\Debug\net5.0\03. Numbers 1.-N with Step 3.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\obj\Debug\net5.0\03. Numbers 1.-N with Step 3.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\obj\Debug\net5.0\refint\03. Numbers 1.-N with Step 3.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\obj\Debug\net5.0\03. Numbers 1.-N with Step 3.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\obj\Debug\net5.0\03. Numbers 1.-N with Step 3.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\03. Numbers 1.-N with Step 3\obj\Debug\net5.0\ref\03. Numbers 1.-N with Step 3.dll

@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\bin\Debug\net5.0\06. Building.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\bin\Debug\net5.0\06. Building.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\bin\Debug\net5.0\06. Building.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\bin\Debug\net5.0\06. Building.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\bin\Debug\net5.0\06. Building.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\bin\Debug\net5.0\06. Building.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\obj\Debug\net5.0\refint\06. Building.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\obj\Debug\net5.0\06. Building.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\06. Building\obj\Debug\net5.0\ref\06. Building.dll

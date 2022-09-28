@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\bin\Debug\net5.0\01.Hello Softuni.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\bin\Debug\net5.0\01.Hello Softuni.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\bin\Debug\net5.0\01.Hello Softuni.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\bin\Debug\net5.0\01.Hello Softuni.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\bin\Debug\net5.0\01.Hello Softuni.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\bin\Debug\net5.0\01.Hello Softuni.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\obj\Debug\net5.0\01.Hello Softuni.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\obj\Debug\net5.0\01.Hello Softuni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\obj\Debug\net5.0\01.Hello Softuni.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\obj\Debug\net5.0\01.Hello Softuni.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\obj\Debug\net5.0\01.Hello Softuni.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\obj\Debug\net5.0\01.Hello Softuni.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\obj\Debug\net5.0\refint\01.Hello Softuni.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\obj\Debug\net5.0\01.Hello Softuni.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\obj\Debug\net5.0\01.Hello Softuni.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\1.Hello Softuni\obj\Debug\net5.0\ref\01.Hello Softuni.dll

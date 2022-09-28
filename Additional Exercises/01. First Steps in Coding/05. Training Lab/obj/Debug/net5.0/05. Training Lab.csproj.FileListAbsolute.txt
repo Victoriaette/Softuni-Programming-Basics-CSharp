@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\bin\Debug\net5.0\05. Training Lab.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\bin\Debug\net5.0\05. Training Lab.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\bin\Debug\net5.0\05. Training Lab.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\bin\Debug\net5.0\05. Training Lab.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\bin\Debug\net5.0\05. Training Lab.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\bin\Debug\net5.0\05. Training Lab.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\obj\Debug\net5.0\05. Training Lab.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\obj\Debug\net5.0\05. Training Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\obj\Debug\net5.0\05. Training Lab.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\obj\Debug\net5.0\05. Training Lab.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\obj\Debug\net5.0\05. Training Lab.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\obj\Debug\net5.0\05. Training Lab.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\obj\Debug\net5.0\refint\05. Training Lab.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\obj\Debug\net5.0\05. Training Lab.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\obj\Debug\net5.0\05. Training Lab.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\05. Training Lab\obj\Debug\net5.0\ref\05. Training Lab.dll

@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\refint\01. Number Pyramid.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\ref\01. Number Pyramid.dll

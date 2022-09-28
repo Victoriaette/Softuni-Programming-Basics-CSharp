@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\refint\12. Trade Commissions.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\05. Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\ref\12. Trade Commissions.dll

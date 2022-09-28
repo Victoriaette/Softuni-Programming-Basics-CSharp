@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\obj\Debug\net5.0\refint\06. Oscars.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\08. For Loop - Exercise\06. Oscars\obj\Debug\net5.0\ref\06. Oscars.dll

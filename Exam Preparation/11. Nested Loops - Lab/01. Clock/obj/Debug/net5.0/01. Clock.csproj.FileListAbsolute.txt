@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\obj\Debug\net5.0\refint\01. Clock.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\11. Nested Loops - Lab\01. Clock\obj\Debug\net5.0\ref\01. Clock.dll

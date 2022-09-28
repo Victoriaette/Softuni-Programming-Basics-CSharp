@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\obj\Debug\net5.0\refint\03. Aluminum Joinery.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\01. Exam July 2020\03. Aluminum Joinery\obj\Debug\net5.0\ref\03. Aluminum Joinery.dll

@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\bin\Debug\net5.0\08. Circle Area and Perimeter.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\bin\Debug\net5.0\08. Circle Area and Perimeter.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\bin\Debug\net5.0\08. Circle Area and Perimeter.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\bin\Debug\net5.0\08. Circle Area and Perimeter.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\bin\Debug\net5.0\08. Circle Area and Perimeter.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\bin\Debug\net5.0\08. Circle Area and Perimeter.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\obj\Debug\net5.0\refint\08. Circle Area and Perimeter.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\08. Circle Area and Perimeter\obj\Debug\net5.0\ref\08. Circle Area and Perimeter.dll

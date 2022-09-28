@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\obj\Debug\net5.0\refint\04. Walking.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\10. While Loop - Exercise\04. Walking\obj\Debug\net5.0\ref\04. Walking.dll

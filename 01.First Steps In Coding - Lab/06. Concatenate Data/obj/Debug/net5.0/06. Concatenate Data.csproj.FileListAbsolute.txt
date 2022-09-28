@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net5.0\refint\06. Concatenate Data.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net5.0\ref\06. Concatenate Data.dll

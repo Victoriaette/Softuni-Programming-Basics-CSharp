@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\bin\Debug\net5.0\02. Numbers N.-1.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\bin\Debug\net5.0\02. Numbers N.-1.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\bin\Debug\net5.0\02. Numbers N.-1.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\bin\Debug\net5.0\02. Numbers N.-1.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\bin\Debug\net5.0\02. Numbers N.-1.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\bin\Debug\net5.0\02. Numbers N.-1.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\obj\Debug\net5.0\02. Numbers N.-1.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\obj\Debug\net5.0\02. Numbers N.-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\obj\Debug\net5.0\02. Numbers N.-1.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\obj\Debug\net5.0\02. Numbers N.-1.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\obj\Debug\net5.0\02. Numbers N.-1.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\obj\Debug\net5.0\02. Numbers N.-1.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\obj\Debug\net5.0\refint\02. Numbers N.-1.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\obj\Debug\net5.0\02. Numbers N.-1.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\obj\Debug\net5.0\02. Numbers N.-1.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\07. For Loop - Lab\02. Numbers N.-1\obj\Debug\net5.0\ref\02. Numbers N.-1.dll

@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\refint\09. Fish Tank.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\ref\09. Fish Tank.dll

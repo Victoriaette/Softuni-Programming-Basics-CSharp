@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net5.0\refint\09. Yard Greening.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\1.First steps in programming\1.First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net5.0\ref\09. Yard Greening.dll

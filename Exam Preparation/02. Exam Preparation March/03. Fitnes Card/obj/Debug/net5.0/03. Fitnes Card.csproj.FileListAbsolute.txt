@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\bin\Debug\net5.0\03. Fitnes Card.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\bin\Debug\net5.0\03. Fitnes Card.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\bin\Debug\net5.0\03. Fitnes Card.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\bin\Debug\net5.0\03. Fitnes Card.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\bin\Debug\net5.0\03. Fitnes Card.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\bin\Debug\net5.0\03. Fitnes Card.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\obj\Debug\net5.0\03. Fitnes Card.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\obj\Debug\net5.0\03. Fitnes Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\obj\Debug\net5.0\03. Fitnes Card.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\obj\Debug\net5.0\03. Fitnes Card.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\obj\Debug\net5.0\03. Fitnes Card.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\obj\Debug\net5.0\03. Fitnes Card.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\obj\Debug\net5.0\refint\03. Fitnes Card.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\obj\Debug\net5.0\03. Fitnes Card.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\obj\Debug\net5.0\03. Fitnes Card.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\02. Exam Preparation March\03. Fitnes Card\obj\Debug\net5.0\ref\03. Fitnes Card.dll

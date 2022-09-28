@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\bin\Debug\net5.0\03. Film Premiere.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\bin\Debug\net5.0\03. Film Premiere.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\bin\Debug\net5.0\03. Film Premiere.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\bin\Debug\net5.0\03. Film Premiere.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\bin\Debug\net5.0\03. Film Premiere.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\bin\Debug\net5.0\03. Film Premiere.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\obj\Debug\net5.0\refint\03. Film Premiere.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\03. Exam June.2019\03. Film Premiere\obj\Debug\net5.0\ref\03. Film Premiere.dll

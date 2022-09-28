@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net5.0\08. Lunch Break.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net5.0\08. Lunch Break.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net5.0\08. Lunch Break.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net5.0\08. Lunch Break.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net5.0\08. Lunch Break.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net5.0\08. Lunch Break.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net5.0\refint\08. Lunch Break.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\04. Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net5.0\ref\08. Lunch Break.dll

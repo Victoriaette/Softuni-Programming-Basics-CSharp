@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\bin\Debug\net5.0\06. Repainting.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\bin\Debug\net5.0\06. Repainting.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\bin\Debug\net5.0\06. Repainting.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\bin\Debug\net5.0\06. Repainting.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\bin\Debug\net5.0\06. Repainting.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\bin\Debug\net5.0\06. Repainting.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\obj\Debug\net5.0\refint\06. Repainting.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\02. First Steps In Coding - Exercise\06. Repainting\obj\Debug\net5.0\ref\06. Repainting.dll

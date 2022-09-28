@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\bin\Debug\net5.0\01. Easter Lunch.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\bin\Debug\net5.0\01. Easter Lunch.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\bin\Debug\net5.0\01. Easter Lunch.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\bin\Debug\net5.0\01. Easter Lunch.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\bin\Debug\net5.0\01. Easter Lunch.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\bin\Debug\net5.0\01. Easter Lunch.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\obj\Debug\net5.0\01. Easter Lunch.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\obj\Debug\net5.0\01. Easter Lunch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\obj\Debug\net5.0\01. Easter Lunch.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\obj\Debug\net5.0\01. Easter Lunch.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\obj\Debug\net5.0\01. Easter Lunch.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\obj\Debug\net5.0\01. Easter Lunch.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\obj\Debug\net5.0\refint\01. Easter Lunch.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\obj\Debug\net5.0\01. Easter Lunch.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\obj\Debug\net5.0\01. Easter Lunch.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\04. Exam Preparation April.2019\01. Easter Lunch\obj\Debug\net5.0\ref\01. Easter Lunch.dll

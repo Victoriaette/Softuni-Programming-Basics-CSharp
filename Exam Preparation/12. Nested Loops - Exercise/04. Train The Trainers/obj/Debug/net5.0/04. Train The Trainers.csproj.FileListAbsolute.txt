@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net5.0\04. Train The Trainers.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net5.0\04. Train The Trainers.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net5.0\04. Train The Trainers.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net5.0\04. Train The Trainers.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net5.0\04. Train The Trainers.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net5.0\04. Train The Trainers.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net5.0\refint\04. Train The Trainers.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net5.0\ref\04. Train The Trainers.dll

@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\bin\Debug\net5.0\07. House Painting.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\bin\Debug\net5.0\07. House Painting.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\bin\Debug\net5.0\07. House Painting.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\bin\Debug\net5.0\07. House Painting.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\bin\Debug\net5.0\07. House Painting.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\bin\Debug\net5.0\07. House Painting.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\obj\Debug\net5.0\07. House Painting.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\obj\Debug\net5.0\07. House Painting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\obj\Debug\net5.0\07. House Painting.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\obj\Debug\net5.0\07. House Painting.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\obj\Debug\net5.0\07. House Painting.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\obj\Debug\net5.0\07. House Painting.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\obj\Debug\net5.0\refint\07. House Painting.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\obj\Debug\net5.0\07. House Painting.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\obj\Debug\net5.0\07. House Painting.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\07. House Painting\obj\Debug\net5.0\ref\07. House Painting.dll

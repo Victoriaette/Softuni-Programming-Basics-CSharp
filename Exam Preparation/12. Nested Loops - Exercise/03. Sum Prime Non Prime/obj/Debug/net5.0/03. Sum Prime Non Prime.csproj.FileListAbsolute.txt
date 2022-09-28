@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\refint\03. Sum Prime Non Prime.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Exam Preparation\12. Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\ref\03. Sum Prime Non Prime.dll

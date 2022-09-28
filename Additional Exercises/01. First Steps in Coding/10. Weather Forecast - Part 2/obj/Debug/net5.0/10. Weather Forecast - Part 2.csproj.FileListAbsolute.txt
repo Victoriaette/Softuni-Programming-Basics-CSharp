@@ -1,0 +1,16 @@
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\bin\Debug\net5.0\10. Weather Forecast - Part 2.exe
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\bin\Debug\net5.0\10. Weather Forecast - Part 2.deps.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\bin\Debug\net5.0\10. Weather Forecast - Part 2.runtimeconfig.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\bin\Debug\net5.0\10. Weather Forecast - Part 2.runtimeconfig.dev.json
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\bin\Debug\net5.0\10. Weather Forecast - Part 2.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\bin\Debug\net5.0\10. Weather Forecast - Part 2.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\obj\Debug\net5.0\10. Weather Forecast - Part 2.csproj.AssemblyReference.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\obj\Debug\net5.0\10. Weather Forecast - Part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\obj\Debug\net5.0\10. Weather Forecast - Part 2.AssemblyInfoInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\obj\Debug\net5.0\10. Weather Forecast - Part 2.AssemblyInfo.cs
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\obj\Debug\net5.0\10. Weather Forecast - Part 2.csproj.CoreCompileInputs.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\obj\Debug\net5.0\10. Weather Forecast - Part 2.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\obj\Debug\net5.0\refint\10. Weather Forecast - Part 2.dll
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\obj\Debug\net5.0\10. Weather Forecast - Part 2.pdb
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\obj\Debug\net5.0\10. Weather Forecast - Part 2.genruntimeconfig.cache
+C:\Repos\Softuni-Programming-Basics-CSharp\Additional Exercises\01. First Steps in Coding\10. Weather Forecast - Part 2\obj\Debug\net5.0\ref\10. Weather Forecast - Part 2.dll
